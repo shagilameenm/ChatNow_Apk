@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "543611065156",
+    "firebase_url": "https://sam-chat-now.firebaseio.com",
+    "project_id": "sam-chat-now",
+    "storage_bucket": "sam-chat-now.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543611065156:android:1837266c4876abdebe3d11",
+        "android_client_info": {
+          "package_name": "sam.chatnow"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543611065156-8q79eea4o145q7qbu7nl0cef7fl3adpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sam.chatnow",
+            "certificate_hash": "5e18220b678058cd32955ddfb0bb22ddad4e17de"
+          }
+        },
+        {
+          "client_id": "543611065156-2795b5a24ubu771djn7uu3grp73dth2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBhYxkZvlcuIx2-0ahXc8H1L0-fhx26Jo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543611065156-2795b5a24ubu771djn7uu3grp73dth2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

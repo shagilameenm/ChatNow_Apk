@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+
+    <item android:title="Sign out"
+        app:showAsAction="never"
+        android:id="@+id/menu_sign_out"></item>
+
+    <item android:title="Create Group"
+        app:showAsAction="never"
+        android:id="@+id/menu_create_group"></item>
+
+    <item android:title="Goto Groups"
+        app:showAsAction="never"
+        android:id="@+id/goto_groups"></item>
+
+</menu>
